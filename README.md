@@ -32,7 +32,7 @@ Classification metric, Accuracy metric, and confusion metric was done
 All the two models metric were brought together and it was noticed that the true positive value for the decision tree classifier is 4938 while Adaboost is 4487 and many more which denoted that Decision tree classifier is better in prediction compared to Adaboost.
 
 Access the application on google colab:  <b>https://colab.research.google.com/drive/1F2X-D0rYjT3C8pM2y4goDSWspi2Pc-QU?usp=sharing#scrollTo=AQq5le6L9POk</b> <br>
-Access the code on github:
+Access the code on github: <b>https://github.com/ajayi-abolore/Data-analysis-for-Passenger-Satisfaction</b>
 
 <b>Application used:</b> VScode, Jupyter notebook, google colab  <br>
 <b>Libraries used:</b> Pandas, numpy, seaborn, matplotlib, plotly, adaboostclassifier, decisiontreeclassifier, copy.
